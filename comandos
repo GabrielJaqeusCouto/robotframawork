@@ -1,0 +1,4 @@
+para rodar o teste passar o seguinte comando:
+  robot -d .\results tests\TestSitePracticeBDD.robot
+
+a instrução -d .\results é pra mandar a resultado desse teste para uma pasta especifica 
